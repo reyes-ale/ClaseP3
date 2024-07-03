@@ -1,0 +1,3 @@
+﻿  Sem7P3-pt.2.cpp
+C:\Users\aleja\OneDrive\Documents\Sem7P3-pt.2\Sem7P3-pt.2.cpp(54,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Sem7P3-pt.2.vcxproj -> C:\Users\aleja\OneDrive\Documents\Sem7P3-pt.2\x64\Debug\Sem7P3-pt.2.exe
